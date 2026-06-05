@@ -1,0 +1,11 @@
+browse gigs page (view)
+
+the page is for freelancers
+
+the page purpose is to list all the gigs avaliable, listed order claculated by certain algorithms.
+
+the priority (result of listed order calculated) will be shown
+
+include: search, sort, advance filters(include price/skills/categories)
+
+can be clicked and go to view gigs page.
