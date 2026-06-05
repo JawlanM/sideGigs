@@ -1,3 +1,7 @@
 find freelancer page
 
 this will list all freelancer matching the employers prefrences and prioritize by certain algorithms
+
+include: search, sort, advance filters(include price/skills/categories)
+
+can be clicked and go to view freelancer profile page.
